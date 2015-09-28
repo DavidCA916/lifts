@@ -98,15 +98,3 @@ def finish_workout():
 # Rounds to nearest 2.5
 def myround(x, base=2.5):
   return float(base*round(float(x)/base))
-
-print_lifts()
-finish_workout()
-
-print_lifts()
-finish_workout()
-
-print_lifts()
-finish_workout()
-
-print_lifts()
-finish_workout()
